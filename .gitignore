@@ -4,3 +4,13 @@
 .vscode
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+/pytorch_org/data/FashionMNIST/raw/t10k-images-idx3-ubyte
+/pytorch_org/data/FashionMNIST/raw/t10k-labels-idx1-ubyte
+/pytorch_org/data/FashionMNIST/raw/train-images-idx3-ubyte
+/pytorch_org/data/FashionMNIST/raw/train-labels-idx1-ubyte
+/pytorch_org/data/FashionMNIST/raw/train-labels-idx1-ubyte.gz
+/pytorch_org/data/FashionMNIST/raw/t10k-images-idx3-ubyte.gz
+/pytorch_org/data/FashionMNIST/raw/t10k-labels-idx1-ubyte.gz
+/pytorch_org/data/FashionMNIST/raw/train-images-idx3-ubyte.gz
+/pytorch_org/model.pth
+/models/model02.pth
